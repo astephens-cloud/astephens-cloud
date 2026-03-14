@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on switching careers from CPG marketing back to my IT roots.
+- 🌱 I’m currently learning AWS Solutions Architect Associate coursework for certification.
+- 👯 I’m looking to collaborate with someone to be a contributor on a FOSS github respository.
+- 🤔 I’m looking for help with picking a programming language to become familiar with - I'm thinking Python. 
+- 💬 Ask me about the time I hosted a radio contact with the ISS for my daughter's elementary school.
+- 📫 How to reach me: https://www.linkedin.com/in/stepheam/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was a finalist in Mick Jone's Air Guitar contest!
