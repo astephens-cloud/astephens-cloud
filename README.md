@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/stepheam/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a finalist in Mick Jone's Air Guitar contest!
+
+- Results-driven cybersecurity and IT operations professional with 5+ years of hands-on experience securing and operating infrastructure in healthcare and higher education environments. Specialized expertise in endpoint security, identity and access management, network segmentation, and Windows hardening. Architect and operator of enterprise-style homelab implementing zero-trust segmentation, CIS-aligned hardening, and secure remote access patterns. Actively pursuing CompTIA Security+ and AWS certifications to advance into associate-level cybersecurity and cloud security roles.
