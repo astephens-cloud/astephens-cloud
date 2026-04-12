@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on switching careers from CPG marketing back to my IT roots.
-- 🌱 I’m currently learning AWS Solutions Architect Associate coursework for certification.
-- 👯 I’m looking to collaborate with someone to be a contributor on a FOSS github respository.
-- 🤔 I’m looking for help with picking a programming language to become familiar with - I'm thinking Python. 
-- 💬 Ask me about the time I hosted a radio contact with the ISS for my daughter's elementary school.
-- 📫 How to reach me: https://www.linkedin.com/in/stepheam/
-- 😄 Pronouns: he/him
+- I’m currently working on switching careers from CPG marketing back to my IT roots.
+- Studying to sit for Azure Administrator Associate (AZ-104) for certification.
+- Know of an interesting respository? I'd like to collaborate with someone on a FOSS repo.
+- I’m looking for help with picking a programming language to become familiar with - I'm thinking Python. 
+- Ask me about the time I hosted a radio contact with the ISS for my daughter's elementary school.
+- How to reach me: https://www.linkedin.com/in/stepheam/
 - ⚡ Fun fact: I was a finalist in Mick Jone's Air Guitar contest!
 
-- Results-driven cybersecurity and IT operations professional with 5+ years of hands-on experience securing and operating infrastructure in healthcare and higher education environments. Specialized expertise in endpoint security, identity and access management, network segmentation, and Windows hardening. Architect and operator of enterprise-style homelab implementing zero-trust segmentation, CIS-aligned hardening, and secure remote access patterns. Actively pursuing CompTIA Security+ and AWS certifications to advance into associate-level cybersecurity and cloud security roles.
