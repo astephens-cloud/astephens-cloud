@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I’m currently working on switching careers from CPG marketing back to my IT roots.
-- Studying to sit for Azure Administrator Associate (AZ-104) for certification.
+- Studying to sit for Comptia Network+ Security+ and Linux+.
 - Know of an interesting respository? I'd like to collaborate with someone on a FOSS repo.
-- I’m looking for help with picking a programming language to become familiar with - I'm thinking Python. 
+- I’m working through Automate the Boring Stuff with Python and using bash-dungeoncrawl to have fun keeping sharp on bash. 
 - Ask me about the time I hosted a radio contact with the ISS for my daughter's elementary school.
 - How to reach me: https://www.linkedin.com/in/stepheam/
 - ⚡ Fun fact: I was a finalist in Mick Jone's Air Guitar contest!
