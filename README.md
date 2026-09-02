@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heya 👋
 
 <!--
 **astephens-cloud/astephens-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :📚 Currently Reading - **Devops Handbook** by _Gene Kim_
 >This award-winning and bestselling business handbook for digital transformation is now fully updated and expanded with the latest research and new case studies! Technology is now at the core of every company, no matter the business model or product. The theories and practices laid out in The DevOps Handbook are tools to be used by anyone from across the organization to create joy and succeed in the marketplace.
-![Cover](https://itrevolution.com/wp-content/uploads/2022/06/DOHB2_front_08312021-scaled.jpg =200x)
+<img src="https://itrevolution.com/wp-content/uploads/2022/06/DOHB2_front_08312021-scaled.jpg" alt="Devops Handbook Cover" width="100"/>
 
 - I’m currently working on switching careers from CPG marketing back to my IT roots.
 - Studying to sit for Comptia Network+, Security+, and Linux+
