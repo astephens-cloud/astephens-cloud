@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     - My primary use case is two-fold 1) Immich to self-host my Camera Roll and 2) local TimeMachine Backup with RAID support
 - I’m working through _Automate the Boring Stuff with Python_ and using bash-dungeoncrawl to have fun keeping sharp on bash. 
 - Ask me about the time I hosted a radio contact with the ISS for my daughter's elementary school.
-- How to reach me: https://www.linkedin.com/in/stepheam/ or andrew @ n8adk [.] radio
+- How to reach me: https://www.linkedin.com/in/andrewmichaelstephens/ or andrew @ n8adk [.] radio
 - ⚡ Fun fact: I was a finalist in Mick Jone's Air Guitar 🎸 contest!
 
 ---
